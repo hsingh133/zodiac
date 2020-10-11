@@ -1,5 +1,5 @@
 name: Deploy Virgo App
-env:
+env: 
    DEFAULT_LOCATION: uksouth
    VIRGO_ALIAS: xvirgo
 #on:
